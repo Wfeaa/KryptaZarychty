@@ -1,0 +1,1 @@
+Takie same przekonania i poglądy w całej Europie

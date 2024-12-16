@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "f72e379d9ae1154f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f4b8db884bd4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e592efcf7f8ab5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epoki/Barok.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Barok"
+            }
+          },
+          {
+            "id": "85b77aba6edae9f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epoki/Oświecenie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Oświecenie"
+            }
+          },
+          {
+            "id": "34b63fa0de91ec97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do króla.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Do króla"
+            }
+          },
+          {
+            "id": "566f18bf486600ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epoki/Barok/Barokowy koncept.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Barokowy koncept"
+            }
+          },
+          {
+            "id": "c492fff1a3919a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epoki/Barok/Blaise Pascal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blaise Pascal"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "083381e72718f4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6c996117117b0f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c77afae9cdb102",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2d8df9b19a70744",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "19409ad76af1e67f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6057f1661a69b4eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f09e65e05e0b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9a6012166857e27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Epoki/Barok/Zadania z fakultetu - 18.11.2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zadania z fakultetu - 18.11.2024"
+            }
+          },
+          {
+            "id": "0ff5560f89d4a07a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pieśń o Rolandzie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pieśń o Rolandzie"
+            }
+          },
+          {
+            "id": "4df4a23d3ac601ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60fa59bfac75e490",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Epoki/Barok/Zadania z fakultetu - 18.11.2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Zadania z fakultetu - 18.11.2024"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c492fff1a3919a8a",
+  "lastOpenFiles": [
+    "Przedwio__nie/Zw__oki Ormianki (fr.).md",
+    "Epoki/Barok/Blaise Pascal.md",
+    "Epoki/Starożytność/Epikureizm 1.md",
+    "Epoki/Barok.md",
+    "Epoki/Barok/Barokowy koncept.md",
+    "Epoki/Barok/Marność (D. Naborowski) 1.md",
+    "Epoki/Barok/Krótkość żywota 1.md",
+    "Epoki/Barok/Cnota grunt wszystkiemu 1.md",
+    "Epoki/Barok/Barokowy koncept 1.md",
+    "Epoki/Renesans/Treny.md",
+    "Epoki/Renesans/Treny 1.md",
+    "Epoki/Renesans/Klasyzyzm renesansowy.md",
+    "Epoki/Renesans/Klasyzyzm renesansowy 1.md",
+    "Epoki/Renesans/Humanizm.md",
+    "Epoki/Renesans/Humanizm 1.md",
+    "Przedwio__nie/przyjazd Baryki do Polski (fr.) 1.md",
+    "Epoki/Średniowiecze 1.md",
+    "Epoki/Barok 1.md",
+    "Epoki/Renesans 1.md",
+    "Epoki/Starożytność/Stoicyzm 1.md",
+    "Epoki/Renesans/Tren (gatunek literacki) 1.md",
+    "Przedwio__nie/Przedwio__nie.md",
+    "Plan odpowiedzi 22.11.24.md",
+    "Plan odpowiedzi 20.11.24.md",
+    "O wojnie naszej, którą wiedziemy z szatanem, światem i ciałem.md",
+    "Opinion essay.md",
+    "Fakultet 16.12.24 1.pdf",
+    "Epoki/Oświecenie/KZ_SwiatZepsuty.pdf",
+    "Przedwiośnie",
+    "Konteksty",
+    "Epoki/Oświecenie",
+    "KZ_Lalka.pdf",
+    "Konteksty/KZ_CampoDiFiori.pdf",
+    "Konteksty/KZ_oPowstawaniuGatunkow.jpg",
+    "IMG_20241207_094727.jpg",
+    "Przedwiośnie/KZ_Lulek.jpg",
+    "Epoki/Barok",
+    "Epoki",
+    "Epoki/Starożytność"
+  ]
+}

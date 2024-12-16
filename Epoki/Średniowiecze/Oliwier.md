@@ -1,0 +1,1 @@
+Rycerz Rolanda, rozsądny, w obliczu przewagi pogan namawia Rolanda do wezwania pomocy.

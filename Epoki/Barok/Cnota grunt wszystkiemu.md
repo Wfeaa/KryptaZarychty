@@ -1,0 +1,1 @@
+Naborowski stosuje anaforę, wiele razy powtarza: "Nic to, że...", pisze, że całe życie to fraszka, ponieważ przemija. Zaznacza, że cnota jest najważniejsza ponieważ trwa wiecznie.
