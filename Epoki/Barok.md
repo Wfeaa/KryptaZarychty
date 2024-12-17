@@ -1,4 +1,4 @@
-[[Renesans 1]] -> **Barok** -> [[Oświecenie]]
+[[Renesans]] -> **Barok** -> [[Oświecenie]]
 
 Początek: Koniec 16 w. (powolne przejście)
 Koniec: 
@@ -25,10 +25,10 @@ Potop szwedzki (1655 - 1660 r.)
 [[Literatura dworska]]
 ### Utwory epoki
 Daniel Naborowski (1573 - 1640):
-	[[Marność (D. Naborowski) 1|Marność]]
-	[[Krótkość żywota 1]]
-	[[Cnota grunt wszystkiemu 1]]
-[[Epoki/Oświecenie/Do trupa]]
+	[[Marność (D. Naborowski)|Marność]]
+	[[Krótkość żywota]]
+	[[Cnota grunt wszystkiemu]]
+[[Do trupa 1]]
 #### Trzy odsłony człowieka Baroku (z fakultetu)
  - Szlachcic, sarmata (Pasek, Kmicic, Wołodyjowski) - Lubi zabawę, ceni dobra materialne, nie jest skromny. Konserwatysta, przywiązany do tradycji oraz ojczyzny, małej i dużej. Katolik, chrześcijanin, głęboko wierzący.
 - Człowiek zakochany (podmiot w "Do trupa") - Człowiek wykształcony, zna kulturę, posługuje się zabiegami artystycznymi

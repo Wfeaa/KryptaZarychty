@@ -1,7 +1,7 @@
 **Powtórka z baroku**
 Utwory epoki:
 "[[Pamiętniki]]" Chryzostoma Paska
-"[[Epoki/Oświecenie/Do trupa]]" - Jan Andrzej Morsztyn
+"[[Do trupa 1]]" - Jan Andrzej Morsztyn
 "[[O wojnie naszej, którą wiedziemy z szatanem, światem i ciałem]]"
 O epoce:
 "[[Potop]]" Sienkiewicza

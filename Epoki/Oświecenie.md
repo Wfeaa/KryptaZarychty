@@ -1,4 +1,4 @@
-[[Barok 1]] -> **Oświecenie** -> [[Romantyzm]]
+[[Barok]] -> **Oświecenie** -> [[Romantyzm]]
 
 (inna nazwa - klasycyzm)
 Początek: 1688 r. (rewolucja w Anglii)

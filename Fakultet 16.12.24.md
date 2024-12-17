@@ -4,8 +4,6 @@ Różne postawy wyrażające miłość do ojczyzny
 -Kosztują
 
 
-Zakończenie Kordiana powtórzyć
-
 Określ istotę i funkcję parodii literackiej, porównując dwa utwory Ignacego Krasickiego (*Hymn do miłości ojczyzny* i fragment pieśni III *Monachomachii*)
 
 > Wdzięczna miłości kochanej szklnice!
