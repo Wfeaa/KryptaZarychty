@@ -1,1 +1,0 @@
-Pieśń lamentacyjna; gatunek powieści żałobnej. Zazwyczaj tworzony na zamówienie bliskich zmarłego.

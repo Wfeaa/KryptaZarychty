@@ -40,54 +40,9 @@
               "icon": "lucide-file",
               "title": "Oświecenie"
             }
-          },
-          {
-            "id": "34b63fa0de91ec97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Do króla.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Do króla"
-            }
-          },
-          {
-            "id": "566f18bf486600ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki/Barok/Barokowy koncept.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barokowy koncept"
-            }
-          },
-          {
-            "id": "c492fff1a3919a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki/Barok/Blaise Pascal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blaise Pascal"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,10 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c492fff1a3919a8a",
+  "active": "d9c77afae9cdb102",
   "lastOpenFiles": [
-    "Przedwio__nie/Zw__oki Ormianki (fr.).md",
+    "Cnota grunt wszystkiemu.md",
     "Epoki/Barok/Blaise Pascal.md",
+    "Blog matura angielski 26.11.24.md",
+    "Marność (D. Naborowski).md",
+    "przyjazd Baryki do Polski (fr.).md",
+    "Satyra.md",
+    "Renesans.md",
+    "Zw__oki Ormianki (fr.).md",
+    "Przedwio__nie/Zw__oki Ormianki (fr.).md",
     "Epoki/Starożytność/Epikureizm 1.md",
     "Epoki/Barok.md",
     "Epoki/Barok/Barokowy koncept.md",
@@ -250,13 +212,6 @@
     "Epoki/Średniowiecze 1.md",
     "Epoki/Barok 1.md",
     "Epoki/Renesans 1.md",
-    "Epoki/Starożytność/Stoicyzm 1.md",
-    "Epoki/Renesans/Tren (gatunek literacki) 1.md",
-    "Przedwio__nie/Przedwio__nie.md",
-    "Plan odpowiedzi 22.11.24.md",
-    "Plan odpowiedzi 20.11.24.md",
-    "O wojnie naszej, którą wiedziemy z szatanem, światem i ciałem.md",
-    "Opinion essay.md",
     "Fakultet 16.12.24 1.pdf",
     "Epoki/Oświecenie/KZ_SwiatZepsuty.pdf",
     "Przedwiośnie",

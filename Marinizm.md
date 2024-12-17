@@ -1,1 +1,0 @@
-Nurt poetycki popularny w epoce [[Barok|baroku]]. Wywodzi się od Giambattisty Mariniego (1569 - 1625). Miał zaciekawić i zdziwić czytelnika. W tym celu autorzy posługiwali się [[Barokowy koncept|konceptem]], oryginalnymi tematami, budową tekstu, metaforami i środkami stylistycznymi takimi jak: puenta, hiperbola, gradacja, parafraza, inwersja, paradoks, oksymoron, antyteza.
