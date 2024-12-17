@@ -1,4 +1,4 @@
-Hymn z epoki [[Średniowiecze 1|średniowiecza]] (ok. XIII w.) autorstwa [[św. Franciszek z Asyżu|św. Franciszka z Asyżu]].
+Hymn z epoki [[Średniowiecze|średniowiecza]] (ok. XIII w.) autorstwa [[św. Franciszek z Asyżu|św. Franciszka z Asyżu]].
 
 Podmiot chwali Boga, powtarza "Pochwalony bądź, Panie, przez \[...]"
 \[...]: księżyc, gwiazdy, wiatr, powiertze, wodęm ogień, ziemię, tych, co przebaczają dla miłości Twojej, śmierć cielesną

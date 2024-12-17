@@ -1,4 +1,4 @@
-Nurt filozoficzno-religijny [[Średniowiecze 1|średniowiecza]] zapoczątkowany przez św. Tomasza z Akwinu (1225 - 1274).
+Nurt filozoficzno-religijny [[Średniowiecze|średniowiecza]] zapoczątkowany przez św. Tomasza z Akwinu (1225 - 1274).
 
 Człwowiek - jedność ciała z duchem.
 Cnota, rozumowanie, walka z pokusami.

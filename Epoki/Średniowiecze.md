@@ -1,4 +1,4 @@
-[[Starożytność]] -> **Średniowiecze** -> [[Renesans 1]]
+[[Starożytność]] -> **Średniowiecze** -> [[Renesans]]
 Początek: 476 r. (rozpad Cesarstwa Zachodniorzymskiego)
 Koniec: 1453 r. (upadek Cesarstwa Bizantyńskiego)
 [[Wydarzenia średniowiecza|Szczegółowe ramy czasowe]]

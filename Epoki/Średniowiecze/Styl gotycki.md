@@ -1,4 +1,4 @@
-Późne [[Średniowiecze 1]], 12w.+
+Późne [[Średniowiecze]], XII w.+
 **Architektura** (nie tylko kościoły):
 Lekkie, wysokie, strzeliste konstrukcje, duże okna, łuki, witraże, bogate zdobienia.
 **Malarstwo, rzeźba:**

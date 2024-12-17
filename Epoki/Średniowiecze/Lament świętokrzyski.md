@@ -1,4 +1,4 @@
-Utwór z epoki [[Średniowiecze 1|średniowiecza]] (1470 r.) uznawany za arcydzieło polskiej średniowiecznej literatury.
+Utwór z epoki [[Średniowiecze|średniowiecza]] (1470 r.) uznawany za arcydzieło polskiej średniowiecznej literatury.
 
 Lament - gatunek literacki, wyraża żałobę, poczucie nieszczęścia i niemocy wobec przeciwności losu.
 

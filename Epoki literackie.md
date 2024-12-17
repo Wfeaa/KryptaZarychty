@@ -1,5 +1,7 @@
 [[Starożytność]]
-[[Średniowiecze 1]]
-[[Renesans 1]]
-[[Barok 1]]
+[[Średniowiecze]]
+[[Renesans]]
+[[Barok]]
+[[Oświecenie]]
+[[Romantyzm]]
 

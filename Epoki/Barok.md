@@ -18,7 +18,7 @@ Potop szwedzki (1655 - 1660 r.)
 [[Baruch Spinoza]]
 [[Leibniz]]
 ### Ważne pojęcia
-[[Barokowy koncept 1|Koncept]]
+[[Barokowy koncept|Koncept]]
 [[Vanitas]] (obecny w epoce, np. "Krótkość Żywota" Naborowskiego)
 [[Sarmatyzm]]
 [[Marinizm]]

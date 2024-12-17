@@ -1,4 +1,4 @@
-**Epoka literacka**: [[Średniowiecze 1]]
+**Epoka literacka**: [[Średniowiecze]]
 **Bohaterowie:**
 [[Roland]]
 Oliwier

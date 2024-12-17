@@ -1,4 +1,4 @@
-Niedokończona legenda hagiograficzna z epoki [[Średniowiecze 1|średniowiecza]] (zapisana w 1454 r., wcześniej przekazywana ustnie), autor nieznany.
+Niedokończona legenda hagiograficzna z epoki [[Średniowiecze|średniowiecza]] (zapisana w 1454 r., wcześniej przekazywana ustnie), autor nieznany.
 
 Autor zaczyna od apostrofy do Boga, następnie opowiada historię św. Aleksego:
 św. Aleksy był synem Eufamijana, bogatego właściciela wielkiego dworu, i Aglijas, która pomagała ubogim. W wieku 24 lat poślubił córkę cesarza na życzenie ojca, po czym oddał jej pierścień i wyruszył służyć Bogu. Jego żona wspierała jego decyzję. 

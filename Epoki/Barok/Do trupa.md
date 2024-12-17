@@ -1,6 +1,6 @@
-Sonet autorstwa Jana Andrzeja Morsztyna (1621 - 1693), charakterystyczny dla epoki [[Barok 1|baroku]]. Pisany zgodnie z nurtem [[Marinizm|marinizmu]].
+Sonet autorstwa Jana Andrzeja Morsztyna (1621 - 1693), charakterystyczny dla epoki [[Barok|baroku]]. Pisany zgodnie z nurtem [[Marinizm|marinizmu]].
 
-Autor stosuje [[Barokowy koncept 1]] porównując miłość do śmieci. Oryginalnie porównuje los zakochanego i zmarłego, sugerując, że ten zakochanego jest gorszy.
+Autor stosuje [[Barokowy koncept]] porównując miłość do śmieci. Oryginalnie porównuje los zakochanego i zmarłego, sugerując, że ten zakochanego jest gorszy.
 
 [[Literatura dworska]], świadczy o wykształceniu, znajomości kultury europejskiej, autor podejmuje popularny temat
 

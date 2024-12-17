@@ -1,7 +1,7 @@
 **Początek epoki:**
 - 313 r. - edykt mediolański - Wolność wyznania w Cesarstwie Rzymskim -> rozwój chrześcijaństwa
 - 395 r. - śmierć cesarza Teodozjusza Wielkiego -> rozpad Cesarstwa Rzymskiego na wschodnie i zachodnie
-- **476 r.** - rozpad Cesarstwa Zachodniorzymskiego (uważany za początek [[Średniowiecze 1|średniowiecza]])
+- **476 r.** - rozpad Cesarstwa Zachodniorzymskiego (uważany za początek [[Średniowiecze|średniowiecza]])
 - 529 r. - zamknięcie Akademii (szkoły stworzonej przez Platona)
 **W trakcie epoki:**
 - 800 r. - koronacja Karola Wielkiego na cesarza
@@ -16,7 +16,7 @@
 - 1337 r. - początek wojny stuletniej
 - 1410 r. - bitwa pod Grunwaldem
 **Koniec epoki:** *PP*
-- **1453 r.** - upadek Konstantynopola i Cesarstwa Bizantyńskiego (uważany za koniec [[Średniowiecze 1|średniowiecza]])
+- **1453 r.** - upadek Konstantynopola i Cesarstwa Bizantyńskiego (uważany za koniec [[Średniowiecze|średniowiecza]])
 - 1440 - 1450 r. - wynalezienie ruchomej czcionki przez Johannesa Gutenberga -> książki powszechnie dostępne
 - 1492 r. - odkrycie Ameryki przez Krzysztofa Kolumba
 - 1517 r. - wystąpienie Marcina Lutra -> początek reformacji

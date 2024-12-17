@@ -1,4 +1,4 @@
-Wczesne [[Średniowiecze 1]], 10-13w.
+Wczesne [[Średniowiecze]], X-XIII w.
 **Architektura** (głównie kościoły):
 Grube mury z dużych kamieni, proste kształty, małe okna, płaskorzeźby.
 Pełniły też funkcję obronną.

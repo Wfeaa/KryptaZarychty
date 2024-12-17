@@ -1,4 +1,4 @@
-Anonimowe dzieło z epoki [[Średniowiecze 1|średniowiecza]] (ok. XIII w.), autorstwo przypisywane Ugolinowi z Montegiorgio (**NIE** św. Franciszkowi). Poprzedza je "[[Pieśń słoneczna]]" św. Franciszka.
+Anonimowe dzieło z epoki [[Średniowiecze|średniowiecza]] (ok. XIII w.), autorstwo przypisywane Ugolinowi z Montegiorgio (**NIE** św. Franciszkowi). Poprzedza je "[[Pieśń słoneczna]]" św. Franciszka.
 
 Opowiada o działalności [[św. Franciszek z Asyżu|św. Franciszka z Asyżu]].
 

@@ -1,4 +1,4 @@
-Nurt filozoficzno-religijny [[Średniowiecze 1|średniowiecza]] zapoczątkowany przez [[św. Franciszek z Asyżu|św. Franciszka z Asyżu]] (1182-1226).
+Nurt filozoficzno-religijny [[Średniowiecze|średniowiecza]] zapoczątkowany przez [[św. Franciszek z Asyżu|św. Franciszka z Asyżu]] (1182-1226).
 
 Oparta na ewangelicznych wzorcach. Człowiek powinien głosić Ewangelię, modlić się, żyć w zgodzie z bliźnim i w ubóstwie oraz czystości moralnej. 
 Bóg jest we wszystkim, człowiek jest częścią natury, jest niższy od Boga -> nie może wymówić jego imienia.
