@@ -1,0 +1,7 @@
+Królowa Anglii Elżbieta I interesowała się sztuką i fundowała jej rozwój, przez co okres jej panowania (1558-1603 r.) stał się czasem rozwoju kultury, w szczególności teatru. W 1576 r. w Londynie powstał pierwszy teatr - The Theatre. To wydarzenie uznaje się za początek teatru elżbietańskiego.
+Teatry stały się opłacalnymi przedsiębiorstwami, w przeciwieństwie do tych antycznych, które były darmowe. Powstawały kolejne budynki, takie jak The Globe, w którym wystawiano najpopularniejsze sztuki [[William Shakespeare|Szekspira]].
+Teatr elżbietański dobiegł końca w połowie XVII w., kiedy zamykano teatry, które nazywano miejscami nieprzyzwoitej rozrywki.
+
+Teatr był wtedy dostępny dla każdego obywatela. Do teatru przychodzili pospolici ludzie zarówno jak i arystokracja, wszyscy żywo i głośno angażowali się w przedstawienie i wchodzili w interakcje z aktorami.
+W teatrze elżbietańskim, podobnie jak w antycznym, aktorami byli wyłącznie mężczyźni, jednak w epoce elżbietańskiej zazwyczaj byli oni profesjonalistami. Mogli oni liczyć na sławę, pieniądze i względy arystokracji.
+Kostiumy aktorów były bogate, ale na scenie nie znajdowały się dekoracje. Zamiast tego bohaterowie słownie opisywali otoczenie i okoliczności.

@@ -1,4 +1,4 @@
-[[Średniowiecz]]->**Renesans**->[[Barok 1]]
+[[Średniowiecz]]->**Renesans**->[[Barok]]
 ### Ramy czasowe
 Renesans najpierw zaczął się we Włoszech i na zachodzie, a dopiero później w Polsce. 
 We Włoszech zaczął się około wynalezienia ruchomej czcionki (1450 r.) lub wielkich odkryć geograficznych (koniec 15 w.).
@@ -8,6 +8,7 @@ Renesans kończy się ok. przełomu 16 i 17 w.
 [[Humanizm]]
 [[Klasyzyzm renesansowy|Klasycyzm]]
 Patriotyzm
+[[Teatr elżbietański]]
 ### Wydarzenia renesansu
 [[Reformacja kościoła]]
 ### Filozofia epoki
