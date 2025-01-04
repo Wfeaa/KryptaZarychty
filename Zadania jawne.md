@@ -12,18 +12,46 @@
 7. Heroizm jako postawa człowieka w zmaganiu się z losem. Omów zagadnienie na podstawie znanych Ci fragmentów Iliady Homera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Sofokles, Antygona
 8. Konflikt racji moralnych. Omów zagadnienie na podstawie Antygony Sofoklesa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+   **Z lekcji**
+   Teza:
+   -Są niszczące - RZ
+   -Kompromisy są niemożliwe/trudne - GM
+   Ludzie są przywiązani do tego czego się nauczyli
 9. Człowiek wobec przeznaczenia. Omów zagadnienie na podstawie Antygony Sofoklesa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+   **Z lekcji**
+   -W starożytnej Grecji panowało przekonanie o wyższości bogów i fatum nad życiem człowieka - GM
+   -Postrzeganie przeznaczenia zmieniło się w czasie (Antygona i Makbet) - KD
 ### Rozmowa Mistrza Polikarpa ze Śmiercią (fragmenty)
 10. Motyw tańca śmierci. Omów zagadnienie na podstawie znanych Ci fragmentów Rozmowy Mistrza Polikarpa ze Śmiercią. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+	**Z lekcji**
+    Różne postawy wobec śmierci, rola dydaktyczna (analogicznie do zad.1). Postawa - racjonalizm, ciekawość, później strach - RZ
+    Ludzie na rampie w "Proszę państwa do gazu", Tadek zauważa biegnącą dziewczynę - BC i RZ
+    Taniec chocholi jako taniec śmierci społeczeństwa polskiego - RZ
 ### Pieśń o Rolandzie (fragmenty)
 11. Średniowieczny etos rycerski. Omów zagadnienie na podstawie znanych Ci fragmentów Pieśni o Rolandzie. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    - Funkcja dydaktyczna pieśni o Rolandzie - RZ
+    - Kontekst - sarmatyzm - MR
 ### William Szekspir, Makbet
 12. Moralna odpowiedzialność za czyny. Omów zagadnienie na podstawie Makbeta Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji**
+    - Jest częścią życia, nieodłączna - PC
+    - Szkodzi myśleniu i planom człowieka - Ja i RZ (+ Zbrodnia i Kara)
 13. Czy człowiek decyduje o własnym losie? Omów zagadnienie na podstawie Makbeta Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji**
+    ### Tak
 14. Jaki wpływ na człowieka ma sprawowanie przez niego władzy? Omów zagadnienie na podstawie Makbeta Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji**
+    - Niszczący, destruktywny - RZ (Przywołać kilka przykładów z życia Makbeta)
+    Kontekst:
+    - Odprawa posłów greckich - KD
+    - Współcześni dyktatorzy - FJ (Trzeba znać konkretne fakty!)
 ### Molier, Skąpiec
 15. Czy dobra materialne czynią człowieka szczęśliwym? Omów zagadnienie na podstawie Skąpca Moliera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-16. Przyczyny nieporozumień między rodzicami a dziećmi. Omów zagadnienie na podstawie Skąpca Moliera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji**
+    ### Nie
+    ("Tak" się da, ale nie warto)
+    - Tak, ale tylko do momentu, wyprowadzając z biedy - FJ i RZ, Zdążyć przed
+1. Przyczyny nieporozumień między rodzicami a dziećmi. Omów zagadnienie na podstawie Skąpca Moliera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Ignacy Krasicki, wybrana satyra
 17. Wady ludzkie w krzywym zwierciadle satyry. Omów zagadnienie na podstawie znanej Ci satyry Ignacego Krasickiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Adam Mickiewicz, Romantyczność oraz wybrane ballady
