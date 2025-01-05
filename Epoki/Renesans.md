@@ -1,4 +1,4 @@
-[[Średniowiecz]]->**Renesans**->[[Barok]]
+[[Średniowiecze]]->**Renesans**->[[Barok]]
 ### Ramy czasowe
 Renesans najpierw zaczął się we Włoszech i na zachodzie, a dopiero później w Polsce. 
 We Włoszech zaczął się około wynalezienia ruchomej czcionki (1450 r.) lub wielkich odkryć geograficznych (koniec 15 w.).
@@ -22,3 +22,7 @@ Patriotyzm
 ### Utwory
 [[Treny]]
 [[Pieśni J. Kochanowskiego]]
+[[William Shakespeare]]: (przełom renesans/barok)
+	[[Romeo i Julia]]
+	[[Hamlet]]
+	[[Makbet]]

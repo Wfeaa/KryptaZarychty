@@ -28,7 +28,11 @@ Daniel Naborowski (1573 - 1640):
 	[[Marność (D. Naborowski)|Marność]]
 	[[Krótkość żywota]]
 	[[Cnota grunt wszystkiemu]]
-[[Do trupa 1]]
+[[Do trupa]]
+[[William Shakespeare]]: (przełom renesans/barok)
+	[[Romeo i Julia]]
+	[[Hamlet]]
+	[[Makbet]]
 #### Trzy odsłony człowieka Baroku (z fakultetu)
  - Szlachcic, sarmata (Pasek, Kmicic, Wołodyjowski) - Lubi zabawę, ceni dobra materialne, nie jest skromny. Konserwatysta, przywiązany do tradycji oraz ojczyzny, małej i dużej. Katolik, chrześcijanin, głęboko wierzący.
 - Człowiek zakochany (podmiot w "Do trupa") - Człowiek wykształcony, zna kulturę, posługuje się zabiegami artystycznymi
