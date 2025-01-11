@@ -1,0 +1,2 @@
+Nurt w literaturze niemieckiej w II poł. XVIII w., krótko przed początkiem [[Romantyzm|romantyzmu]]. Najważniejsze założenia: odejście od oświeceniowych reguł sztuki, krytyka cywilizacji, uczucia, namiętność, kultura ludowa. Bunt przeciwko nadmiernej religijności i władzy.
+Jego twórcami byli Herder i Goethe, Schiller również należał do tego nurtu.

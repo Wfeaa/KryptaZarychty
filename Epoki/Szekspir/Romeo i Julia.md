@@ -24,4 +24,5 @@ Kiedy Julia się budzi, dowiaduje się od Ojca Laurentego oo śmierci Romea i, z
 
 
 
+
 Ojciec Laurenty wielokrotnie komentuje zaszłe sytuacje - Pochwala związek Romea z Julią jednocześnie potępiając jego miłość do Rozalii. Kiedy Romeo zostaje skazany, kapłan krytykuje jego czyn ale radzi mu znieść ten los i nie popełniać samobójstwa. Krytykuje również plan ślubu Parysa z Julią gdyż jest on pośpieszny a Parys nie zna dobrze swojej narzeczonej.

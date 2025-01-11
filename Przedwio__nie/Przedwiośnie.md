@@ -20,7 +20,7 @@ Krewny Baryków, którego imienia nie pamiętał, zbudował ogromną hutę w kt
 
 Mit o szklanych domach to przeciwstawienie się rewolucji, autor sugeruje że zamiast krwawych starć należy stosować powolne reformy.
 
-W trakcie podróży obsługa pociągu szantażowała pasażerów, zabrała m.in. walizkę Seweryna. Seweryn umarł zanim dotarli do Polski i został pochowany w pobliskiej miejscowości. Kiedy Cezary dojechał do Polski, był zawiedziony [[przyjazd Baryki do Polski (fr.) 1|krajobrazem]], który ujrzał.
+W trakcie podróży obsługa pociągu szantażowała pasażerów, zabrała m.in. walizkę Seweryna. Seweryn umarł zanim dotarli do Polski i został pochowany w pobliskiej miejscowości. Kiedy Cezary dojechał do Polski, był zawiedziony [[przyjazd Baryki do Polski (fr.)|krajobrazem]], który ujrzał.
 
 ### Nawłoć
 Po dotarciu polski Cezary, zgodnie z radą ojca, udał się do Warszawy i odszukał Szymona Gajowca. Mieszkał u niego i pracował dla niego.
