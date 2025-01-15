@@ -29,7 +29,7 @@ Po dyskusji z Rieux i Tarrou, Rambert zrezygnował z opuszczenia Oranu. Zrozumia
 Wynotuj informacje na temat mieszkańców Oranu
 - Zapracowani
 - Pracują, aby się wzbogacić
-- Interesują się handlem, robieniem interesób oraz kobietami, kinem i kąpielami morskimi.
+- Interesują się handlem, robieniem interesów oraz kobietami, kinem i kąpielami morskimi.
 - Nie mają wiele zainteresowań poza spotykaniem się, spacerowaniem, graniem w kręgle czy karty
 - Mają niewiele czasu
 - Nie mają ambicji, nie odczuwają romantycznej miłości
