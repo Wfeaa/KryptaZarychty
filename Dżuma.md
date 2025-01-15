@@ -25,3 +25,17 @@ Rambert deklaruje swoją filozofię. Za najważniejsze uważa śmierć w imię 
 	Camus nie uznawał konieczności miłości i uzasadniania nią działań. Jako absurdysta nie uzasadnia działań podniosłymi ideami.
 Wbrew rozumieniu Ramberta, w działaniu Rieux nie chodziło o bohaterstwo. Rieux nie żył dla sławy, bohaterstwa czy innej idei, po prostu żył i pracował przyjmując absurd życia. Mówi, że walczy z dżumą za pomocą uczciwości.
 Po dyskusji z Rieux i Tarrou, Rambert zrezygnował z opuszczenia Oranu. Zrozumiał, że jego sytuacja nie jest wyjątkowa, a gdyby uciekł z Oranu jego żona uznałaby go za nieuczciwego.
+
+Wynotuj informacje na temat mieszkańców Oranu
+- Zapracowani
+- Pracują, aby się wzbogacić
+- Interesują się handlem, robieniem interesób oraz kobietami, kinem i kąpielami morskimi.
+- Nie mają wiele zainteresowań poza spotykaniem się, spacerowaniem, graniem w kręgle czy karty
+- Mają niewiele czasu
+- Nie mają ambicji, nie odczuwają romantycznej miłości
+Wnioski:
+- Normalność, nudność życia przyczyniła się do szkód dżumy
+- To samo może wydarzyć się w każdym, normalnym mieście. Nie wymaga szczególnych cech.
+(Przesłanie - przez analogię dżumy do wojny, faszyzmu itd. - może powstać w każdym mieście)
+Autor krytykuje ignorowanie kwestii filozoficznych:
+> Ale są miasta i kraje, gdzie ludzie od czasu do czasu podejrzewają istnienie czegoś innego. Na ogół nie zmienia to ich życia. Ale zaznali podejrzeń, a to zawsze jest wygrana.
