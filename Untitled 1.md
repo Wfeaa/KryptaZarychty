@@ -1,0 +1,1 @@
+Bajka to gatunek narracyjny - zawiera narratora, świat przedstawiony

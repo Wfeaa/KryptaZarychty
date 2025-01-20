@@ -9,3 +9,9 @@ W okresie preromantyzmu pojawiały się również motywy śmierci, duchów, grob
 
 ### Cechy romantyzmu
 [[O pismach klasycznych i romantycznych]]
+
+### Utwory
+Adam Mickiewicz
+	Ballady i Romanse
+		[[Romantyczność]]
+		[[Rybka]]
