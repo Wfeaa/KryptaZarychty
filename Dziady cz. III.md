@@ -37,6 +37,6 @@ Ksiądz Piotr wchodzi do celi Konrada i wygania z ciała Konrada ducha, który g
 Ewa składa kwiaty pod obrazem Matki Boskiej i modli się do niej, następnie zasypia. Śpiąc ma widzenie, rozmawia z różą, którą złożyła pod obrazkiem Matki Boskiej. Ta skarży jej się, że została wyrwana. Ewa tłumaczy róży, że zrobiła to aby złożyć ją Matce Boskiej, nie dla siebie.
 ### Scena V - Cela księdza Piotra
 Ksiądz Piotr modli się, opisuje swoje widzenie. Również zwraca się do Boga.
-
-Ksiądz widzi szereg splątanych dróg wiodących na północ. Nimi tłum wozów wiezie Polaków na Sybir. Ksiądz Piotr nazywa polaków "Naszymi dziećmi", a cara - Herodem, biblijnym mordercą dzieci.
-Opisuje jednego człowieka, który "uszedł", jego imię - czterdzieści i cztery. Można to interpretować jako nawiązanie do biblijnej symboliki liczb. Ten obraz jest wyrazem mesjanizmu jednostki.
+[[KZ_WidzenieKsPiotra.jpg|Interpretacja widzenia]]
+~~Ksiądz widzi szereg splątanych dróg wiodących na północ. Nimi tłum wozów wiezie Polaków na Sybir. Ksiądz Piotr nazywa polaków "Naszymi dziećmi", a cara - Herodem, biblijnym mordercą dzieci.
+Opisuje jednego człowieka, który "uszedł", jego imię - czterdzieści i cztery. Można to interpretować jako nawiązanie do biblijnej symboliki liczb. Ten obraz jest wyrazem mesjanizmu jednostki.~~
