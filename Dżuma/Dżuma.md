@@ -57,3 +57,16 @@ Tarrou sam zadaje sobie to pytanie, pragnie być świętym.
 Czyny Tarrou nie wynikają z wiary, tylko z jego przeszłości. Tarrou był świadkiem rozpraw sądowych jego ojca, na których padały wyroki o karze śmierci.
 
 Podejście Tarrou do zła jest podobne do podejścia Rieux do dżumy.
+
+
+[[KZ_Rambert.jpg]]
+Dlaczego Rambert rezygnuje z opuszczenia miasta?
+- Ponieważ martwi się o opinię jego partnerki
+- Ponieważ chciał mieć czyste sumienie
+Uważam, że motywacje i cele bohatera się niewiele zmieniły, ale Rambert poznał siebie i swoją sytuację; wcześniej uważał że jego sytuacja jest wyjątkowa i wie coś, czego nie wiedzą inni, a kiedy się dowiedział się że Rieux jest w podobnej sytuacji - też ma żonę poza Oranem, dokonał refleksji na temat swojej sytuacji. Uświadomił sobie, że inni też działają racjonalnie i mają podobne cele, więc może też powinien zmienić swoje działanie. Przez cały czas działa egoistycznie, ma na uwadze siebie.
+
+[[KZ_Paneloux.jpg]]
+W pierwszym kazaniu Paneloux pojawia się alegoria - nawiązanie do Biblii, oddzielenie ziarna od plew, przypowieść o chwaście.
+W 1 kazaniu próbuje wyjaśnić dżumę jako próbę Boga, która ma oddzielić ludzi dobrych od złych. Mówi w drugiej osobie, zaznacza że słuchacze należą do grupy tych złych ludzi.
+W 2 kazaniu mówi, że nie należy dżumy tłumaczyć, tylko uczyć się z niej - uczyć się współpracy, empatii itp. "Tyle o sobie wiemy, ile nas sprawdzono."
+W 2 kazaniu przedstawia dżumę jako zadanie dla człowieka, mówi o sobie i innych jako wspólnota - "Bracia moi"

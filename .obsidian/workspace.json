@@ -22,6 +22,30 @@
             }
           },
           {
+            "id": "3abd0a7c35d23c09",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dżuma/KZ_Paneloux.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "KZ_Paneloux"
+            }
+          },
+          {
+            "id": "d0545046253ff721",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dżuma/KZ_Rambert.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "KZ_Rambert"
+            }
+          },
+          {
             "id": "0b64d41da8607ef7",
             "type": "leaf",
             "state": {
@@ -178,10 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b64d41da8607ef7",
+  "active": "3abd0a7c35d23c09",
   "lastOpenFiles": [
     "Dżuma/Dżuma.md",
+    "Dżuma/KZ_Paneloux.jpg",
+    "Dżuma/KZ_Rambert.jpg",
     "Zadanko.md",
+    "Untitled 1.md",
     "Epoki/Romantyzm/Dziady cz. III.md",
     "Lalka.md",
     "O wojnie naszej, którą wiedziemy z szatanem, światem i ciałem.md",
@@ -209,9 +236,7 @@
     "Przedwio__nie/Przedwiośnie.md",
     "Epoki/Romantyzm/Gotycyzm.md",
     "Strefa interesów.md",
-    "Epoki/Szekspir/Romeo i Julia.md",
     "Epoki/Szekspir/KZ_RomeoIJulia.pdf",
-    "Epoki/Barok.md",
     "Epoki/Szekspir/romeo-i-julia.pdf",
     "Epoki/Szekspir",
     "Lektury/przedwiosnie.pdf",
