@@ -67,7 +67,7 @@ Uważam, że motywacje i cele bohatera się niewiele zmieniły, ale Rambert poz
 
 [[KZ_Paneloux.jpg]]
 W pierwszym kazaniu Paneloux pojawia się alegoria - nawiązanie do Biblii, oddzielenie ziarna od plew, przypowieść o chwaście.
-W 1 kazaniu próbuje wyjaśnić dżumę jako próbę Boga, która ma oddzielić ludzi dobrych od złych. Mówi w drugiej osobie, zaznacza że słuchacze należą do grupy tych złych ludzi.
+W 1 kazaniu próbuje wyjaśnić dżumę jako próbę Boga, która ma oddzielić ludzi dobrych od złych. Mówi w drugiej osobie, zaznacza że słuchacze należą do grupy tych złych ludzi. Dlatego Dżuma jest karą za grzechy mieszkańców Oranu.
 W 2 kazaniu mówi, że nie należy dżumy tłumaczyć, tylko uczyć się z niej - uczyć się współpracy, empatii itp. "Tyle o sobie wiemy, ile nas sprawdzono."
 W 2 kazaniu przedstawia dżumę jako zadanie dla człowieka, mówi o sobie i innych jako wspólnota - "Bracia moi"
 
@@ -87,3 +87,6 @@ Słowa narratora/Rieux kończące utwór:
 
 "Dżuma", w kontraście do innych utworów, mówi, że ludzie po upadku potrafią powstać.
 Kontekst MD: Treny, Kochanowski w trenie XIX pokazuje powrót po upadku.
+
+[[KZ_MitSyzyfa.jpg]]
+Rieux, jak Syzyf, wykonuje swoją pracę bez większych efektów. Na koniec, po zwalczeniu choroby, bohater mówi, że bakcyl dżumy nigdy nie umiera. Jest to analogiczne od świadomości Syzyfa wracającego po kamień, o której pisze Camus.
