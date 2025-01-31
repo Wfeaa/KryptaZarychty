@@ -70,3 +70,20 @@ W pierwszym kazaniu Paneloux pojawia się alegoria - nawiązanie do Biblii, oddz
 W 1 kazaniu próbuje wyjaśnić dżumę jako próbę Boga, która ma oddzielić ludzi dobrych od złych. Mówi w drugiej osobie, zaznacza że słuchacze należą do grupy tych złych ludzi.
 W 2 kazaniu mówi, że nie należy dżumy tłumaczyć, tylko uczyć się z niej - uczyć się współpracy, empatii itp. "Tyle o sobie wiemy, ile nas sprawdzono."
 W 2 kazaniu przedstawia dżumę jako zadanie dla człowieka, mówi o sobie i innych jako wspólnota - "Bracia moi"
+
+[[KZ_Rieux.jpg]]
+> Nic na świecie nie jest warte, żeby człowiek odwrócił się od tego, co kocha. A ja jednak także się odwracam, sam nie wiedząc dlaczego.
+
+Interpretacja Zarychty: W obliczu wojny ludzie decydują się walczyć o ojczyznę, zostawiając swoją rodzinę. Rieux w obliczu dżumy postanawia wysłać żonę z miasta.
+
+Wypowiedzi Rieux świadczą o jego pokorze oraz innych cechach, które można by przypisać chrześcijaństwu, ale bohater nie wierzy w boga.
+Rieux mówi o Bogu jako o zegarmistrzu - stworzył świat, ale w niego nie ingeruje. W pewien sposób krytykuje postawę ludzi liczących na pomoc Boga.
+> Jedyny sposób walki z dżumą to uczciwość
+
+Rieux uważał za najważniejsze pomaganie ludziom, współpracę i uczciwość wobec nich.
+
+Słowa narratora/Rieux kończące utwór:
+> W ludziach więcej zasługuje na podziw niż na pogardę.
+
+"Dżuma", w kontraście do innych utworów, mówi, że ludzie po upadku potrafią powstać.
+Kontekst MD: Treny, Kochanowski w trenie XIX pokazuje powrót po upadku.

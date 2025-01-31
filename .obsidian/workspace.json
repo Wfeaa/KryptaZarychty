@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "ecc52604df8212fa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dżuma/KZ_Rieux.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "KZ_Rieux"
+            }
+          },
+          {
             "id": "3abd0a7c35d23c09",
             "type": "leaf",
             "state": {
@@ -59,8 +71,7 @@
               "title": "Zadanko"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epoki/Barok/Zadania z fakultetu - 18.11.2024.md",
+                "file": "Dżuma/Dżuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zadania z fakultetu - 18.11.2024"
+              "title": "Backlinks for Dżuma"
             }
           },
           {
@@ -184,8 +196,7 @@
               "title": "Outline of Zadania z fakultetu - 18.11.2024"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,12 +213,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3abd0a7c35d23c09",
+  "active": "8e7a2d06e72cf145",
   "lastOpenFiles": [
+    "KZ_Lalka.pdf",
     "Dżuma/Dżuma.md",
+    "Dżuma/KZ_Rieux.jpg",
+    "Zadanko.md",
     "Dżuma/KZ_Paneloux.jpg",
     "Dżuma/KZ_Rambert.jpg",
-    "Zadanko.md",
+    "IMG_20250131_080830.jpg",
+    "KZ_Rieux.jpg",
     "Untitled 1.md",
     "Epoki/Romantyzm/Dziady cz. III.md",
     "Lalka.md",
@@ -245,7 +260,6 @@
     "Lektury",
     "KZ_ZadJawne.pdf",
     "Konteksty/KZ_oPowstawaniuGatunkow.jpg",
-    "IMG_20241207_094727.jpg",
-    "Przedwiośnie/KZ_Lulek.jpg"
+    "IMG_20241207_094727.jpg"
   ]
 }
