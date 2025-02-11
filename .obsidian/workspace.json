@@ -8,60 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b1d01312159d6bf",
+            "id": "b9a08aaba5954883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epoki/Starożytność/Stoicyzm.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stoicyzm"
-            }
-          },
-          {
-            "id": "75af0c6d66a4f407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki/Oświecenie.md",
+                "file": "Romantyzm wykład.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oświecenie"
-            }
-          },
-          {
-            "id": "3ae8719f5e538290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dziady cz. III.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dziady cz. III"
-            }
-          },
-          {
-            "id": "0819b2864c89c170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki/Romantyzm/Rybka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rybka"
+              "title": "Romantyzm wykład"
             }
           },
           {
@@ -70,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania jawne.md",
+                "file": "Plan odpowiedzi 22.11.24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zadania jawne"
+              "title": "Plan odpowiedzi 22.11.24"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,18 +178,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ae8719f5e538290",
+  "active": "db61937c91378606",
   "lastOpenFiles": [
-    "Epoki/Romantyzm.md",
+    "Plan odpowiedzi 20.11.24.md",
+    "Fakultet 16.12.24.md",
     "Dziady cz. III.md",
+    "Untitled 1.md",
+    "Epoki/Romantyzm.md",
     "Zadania jawne.md",
-    "Untitled.md",
+    "Romantyzm wykład.md",
+    "Inny świat.md",
+    "Epoki/Oświecenie.md",
+    "Makbet.md",
+    "Epoki/Romantyzm/Romantyczność.md",
+    "Epoki/Średniowiecze/Pieśń o Rolandzie.md",
+    "Epoki/Średniowiecze/Roland.md",
     "Epoki/Romantyzm/Świtezianka.md",
     "Epoki/Romantyzm",
     "Epoki/Romantyzm/Rybka.md",
-    "Epoki/Romantyzm/Romantyczność.md",
-    "Untitled 1.md",
-    "Epoki/Oświecenie.md",
     "Epoki/Starożytność/Stoicyzm.md",
     "Epoki/Renesans/Treny.md",
     "Vanitas.md",
@@ -244,16 +207,10 @@
     "__wiczenia do rozprawki 27.11.24.md",
     "Epoki/Romantyzm/O pismach klasycznych i romantycznych.md",
     "Przedwio__nie/Przedwiośnie.md",
-    "Epoki/Romantyzm/Gotycyzm.md",
-    "Strefa interesów.md",
-    "Epoki/Szekspir/Romeo i Julia.md",
     "Epoki/Szekspir/KZ_RomeoIJulia.pdf",
-    "Epoki/Barok.md",
     "Epoki/Szekspir/romeo-i-julia.pdf",
     "Epoki/Szekspir",
     "Untitled",
-    "Zadania maturalne 03.01.24.md",
-    "Epoki/Szekspir/William Shakespeare.md",
     "Lektury/przedwiosnie.pdf",
     "Lektury/Dukaj Jacek - Katedra.pdf",
     "Lektury/Gustaw Herling-Grudziński - Inny świat.pdf",
