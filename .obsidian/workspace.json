@@ -8,81 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e7a2d06e72cf145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dżuma/Dżuma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dżuma"
-            }
-          },
-          {
-            "id": "465056f8f6125ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mit Syzyfa (Camus).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mit Syzyfa (Camus)"
-            }
-          },
-          {
-            "id": "ecc52604df8212fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dżuma/KZ_Rieux.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "KZ_Rieux"
-            }
-          },
-          {
-            "id": "3abd0a7c35d23c09",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dżuma/KZ_Paneloux.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "KZ_Paneloux"
-            }
-          },
-          {
-            "id": "d0545046253ff721",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dżuma/KZ_Rambert.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "KZ_Rambert"
-            }
-          },
-          {
             "id": "0b64d41da8607ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadanko.md",
+                "file": "Epoki/Romantyzm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zadanko"
+              "title": "Romantyzm"
             }
           }
         ]
@@ -227,18 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e7a2d06e72cf145",
+  "active": "0b64d41da8607ef7",
   "lastOpenFiles": [
+    "Zadanko.md",
+    "Dżuma/KZ_Rambert.jpg",
+    "Dżuma/KZ_Paneloux.jpg",
+    "Dżuma/KZ_Rieux.jpg",
     "Mit Syzyfa (Camus).md",
     "Dżuma/Dżuma.md",
     "Mit syzyfa.md",
     "KZ_MitSyzyfa.jpg",
     "IMG_20250131_084242.jpg",
     "KZ_Lalka.pdf",
-    "Dżuma/KZ_Rieux.jpg",
-    "Zadanko.md",
-    "Dżuma/KZ_Paneloux.jpg",
-    "Dżuma/KZ_Rambert.jpg",
     "IMG_20250131_080830.jpg",
     "KZ_Rieux.jpg",
     "Epoki/Romantyzm/Dziady cz. III.md",
@@ -267,7 +203,6 @@
     "Epoki/Romantyzm/O pismach klasycznych i romantycznych.md",
     "Przedwio__nie/Przedwiośnie.md",
     "Epoki/Romantyzm/Gotycyzm.md",
-    "Strefa interesów.md",
     "Epoki/Szekspir/KZ_RomeoIJulia.pdf",
     "Epoki/Szekspir/romeo-i-julia.pdf",
     "Epoki/Szekspir",
