@@ -36,5 +36,14 @@ Słowacki w Kordianie przedstawia Mickiewiczowy mesjanizm poprzez wariata.
 > Nie myśl.
 
 Cierpienie powoduje zgodę z Bogiem, doktor (szatan) chce żeby Kordian myślał i przez to się buntował, ale każe mu przestać myśleć, ponieważ to powoduje cierpienie i zbliża go do Boga.
+
+Bohater romantyczny jest samotny, uczuciowy, marzyciel, skłonność do autoanalizy, indywidualista, odrębny od świata, kontakt z naturą.
+
+Przyroda jest obserwatorem zdarzeń, jest ucieczką od rzeczywistości, w Balladach - wypełnia rolę dotrzymania sprawiedliwości
+W Panie Tadeuszu opis przyrody jest odzwierciedleniem uczuć
 ### Teatr
 Teatr jest instytucją publiczną, ma duży wpływ na ludzi, na myśl polityczną (Wiktor Hugo - teatr jest soczewką)
+
+### Wydarzenia historyczne
+W Polsce: powstanie listopadowe i styczniowe definiuje epokę, styczniowe jest końcem epoki
+Na świecie: rewolucja we Francji
