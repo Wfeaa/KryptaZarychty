@@ -40,3 +40,14 @@ Ksiądz Piotr modli się, opisuje swoje widzenie. Również zwraca się do Boga
 [[KZ_WidzenieKsPiotra.jpg|Interpretacja widzenia]]
 ~~Ksiądz widzi szereg splątanych dróg wiodących na północ. Nimi tłum wozów wiezie Polaków na Sybir. Ksiądz Piotr nazywa polaków "Naszymi dziećmi", a cara - Herodem, biblijnym mordercą dzieci.
 Opisuje jednego człowieka, który "uszedł", jego imię - czterdzieści i cztery. Można to interpretować jako nawiązanie do biblijnej symboliki liczb. Ten obraz jest wyrazem mesjanizmu jednostki.~~
+### Scena VI
+Nad śpiącym senatorem stoją dwa diabły. Pojawia się Belzebub i zabrania im straszyć senatora piekłem, a zamiast tego każe kusić do grzechu, aby nie poprawił swojego zachowania.
+We śnie senator dostaje od cara pieniądze i tytuł. Jest bardzo zadowolony z przychylności cara i szacunku, jaki budzi u innych. Później car się od niego odwraca, ignoruje go. Senator jest tym rozczarowany, jest zrozpaczony i zły.
+### Scena VII - Salon Warszawski
+Scena opisuje dwie rozmowy - przy stoliku, arystokraci i ludzie o wysokich stopniach rozmawiający po francusku, oraz przy drzwiach, kilku młodych ludzi i starych Polaków mówiących po polsku.
+Towarzystwo przy stoliku narzeka na spadek jakości balów w Warszawie po wyjeździe Nowosilcowa.
+Później damy proszą literata żeby przeczytał swoje wiersze.
+Polacy przy drzwiach mówią o ciężkim losie katowanych Polaków na Litwie. Wspominają o Cichowskim, który przeżył okropne męczarnie.
+
+Panna przychodzi od drzwi do stolika i prosi Adolfa, żeby opowiedział wszystkim o Cichowskim. Jeden z arystokratów przy stoliku wychodzi na początku opowiadania, inny mówi że nie wie nic o Litwie. Adolf opowiada:
+Cichowski dawno temu zaginął z domu, bliscy uznali go za zmarłego. Lata później widziano go wśród więźniów

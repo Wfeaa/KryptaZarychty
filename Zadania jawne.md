@@ -92,9 +92,9 @@
     SK (na lekcji): Kontekst - Kreon (Zarychta disapproval)
     PO: Kontekst - Rambert (Zarychta approval) - wszyscy są zwykli w obliczu dżumy, powinni podejść do niej z szacunkiem.
     FJ (na lekcji): Kontekst - segregacja rasowa w Ameryce, która jest od wieków powoli zwalczana, i mimo to jeszcze istnieje
-1. Motyw winy i kary. Omów zagadnienie na podstawie Zbrodni i kary Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-2. Ile człowiek jest gotów poświęcić dla innych? Omów zagadnienie na podstawie Zbrodni i kary Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-3. Co może determinować ludzkie postępowanie? Omów zagadnienie na podstawie Zbrodni i kary Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+35. Motyw winy i kary. Omów zagadnienie na podstawie Zbrodni i kary Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+36. Ile człowiek jest gotów poświęcić dla innych? Omów zagadnienie na podstawie Zbrodni i kary Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+37. Co może determinować ludzkie postępowanie? Omów zagadnienie na podstawie Zbrodni i kary Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Stanisław Wyspiański, Wesele
 38. Co utrudnia porozumienie między przedstawicielami różnych grup społecznych? Omów zagadnienie na podstawie Wesela Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 39. Rola chłopów i inteligencji w sprawie niepodległościowej. Omów zagadnienie na podstawie Wesela Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
@@ -115,26 +115,64 @@
 46. Różne wizje odbudowy Polski po odzyskaniu niepodległości. Omów zagadnienie na podstawie Przedwiośnia Stefana Żeromskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 47. Młodość jako czas kształtowania własnej tożsamości. Omów zagadnienie na podstawie Przedwiośnia Stefana Żeromskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Witold Gombrowicz, Ferdydurke (fragmenty)
-48. Groteskowy obraz świata. Omów zagadnienie na podstawie znanych Ci fragmentów Ferdydurke Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-49. Człowiek wobec presji otoczenia. Omów zagadnienie na podstawie znanych Ci fragmentów Ferdydurke Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+48. Groteskowy obraz świata. Omów zagadnienie na podstawie znanych Ci fragmentów Ferdydurke Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst. 
+   **Z lekcji:**
+   Teza: służy pokazaniu absurdu świata.
+   Kontekst:
+- Tango (może, nie znam)
+- Truman Show (świat pozorów)
+- Wesele - Wyspiański mógł już świadomie używać groteski. Sytuacje są śmieszne, ale pokazują poważne problemy.
+- [[Z punktu widzenia nocnego portiera]] (film)
+- Nagrania z Korei Półnonej
+ 49. Człowiek wobec presji otoczenia. Omów zagadnienie na podstawie znanych Ci fragmentów Ferdydurke Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+**Z lekcji:**
+Teza: Przyjmuje różne postawy / wybiera konformizm
+Konformizm - kłótnia na boisku, większość przyjmuje postawę Miętusa, reszta - postawę Syfona.
+Postawa nauczycieli w obliczu *Wizytatora*.
+Lekcja polskiego - Bladaczka szuka tych, którzy się dostosują do niego.
+*Nie ma innej ucieczki od formy niż do innej formy*.
+Kontekst:
+- Tomasz Raczek - wyjście z szafy
+- Śmieszność - konformizm jest konieczny, bohater musi się nauczyć odpowiednich zwyczajów.
+- Nagrania z Korei Półnonej 
 ### Tadeusz Borowski, Proszę państwa do gazu
 50. „Człowiek zlagrowany” jako ofiara zbrodniczego systemu. Omów zagadnienie na podstawie utworu Proszę państwa do gazu Tadeusza Borowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Gustaw Herling-Grudziński, Inny świat (fragmenty)
 51. Jakie znaczenie ma tytuł dla odczytania sensu utworu? Omów zagadnienie na podstawie znanych Ci fragmentów Innego świata Gustawa Herlinga-Grudzińskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 52. Konsekwencje zniewolenia człowieka. Omów zagadnienie na podstawie znanych Ci fragmentów Innego świata Gustawa Herlinga-Grudzińskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Hanna Krall, Zdążyć przed Panem Bogiem
-53. Czy możliwe jest zachowanie godności w skrajnych sytuacjach? Omów zagadnienie na podstawie Zdążynć przed Panem Bogiem Hanny Krall. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+53. Czy możliwe jest zachowanie godności w skrajnych sytuacjach? Omów zagadnienie na podstawie Zdążyć przed Panem Bogiem Hanny Krall. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 54. Zagłada z perspektywy świadka i uczestnika wydarzeń w getcie. Omów zagadnienie na podstawie Zdążyć przed Panem Bogiem Hanny Krall. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Albert Camus, Dżuma
 55. Co skłania człowieka do poświęceń? Omów zagadnienie na podstawie Dżumy Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 56. Człowiek wobec cierpienia i śmierci. Omów zagadnienie na podstawie Dżumy Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 57. Czy możliwa jest przyjaźń w sytuacjach skrajnych? Omów zagadnienie na podstawie Dżumy Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### George Orwell, Rok 1984
+Kontekst: Korea Północna
 58. Relacje międzyludzkie w rzeczywistości państwa totalitarnego. Omów zagadnienie na podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Kontekst - "Zdążyć przed panem Bogiem" - ludzie nawiązywali relacje aby przeżyć
+	Teza: są zaburzone
+	Arg: Rodzinne - dzieci wydające rodziców, Winston z żoną, Winston z Julią
+	Kontekst - [[Z punktu widzenia nocnego portiera]] - relacje są czysto formalne, oparte na regulaminach
+
 59. Jak zachować wolność w państwie totalitarnym? Omów zagadnienie na podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+	Julia i Winston próbują nawiązując związek, ale to tylko złudzenie.
+    Teza: niemożliwe
+    Kontekst: Kostylew/ Natalia Lwowna - również mają namiastkę wolności.
+    
 60. Znaczenie propagandy w państwie totalitarnym. Omów zagadnienie na podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Teza: Wielkie/podstawowe/fundamentalne, obok terroru i kultu jednostki
+    Kontekst:
+    PO: Współczesny - Korea Półn.
+    AK: Przedwiośnie - Komunizm
+    MR: Tiktoki z Korei
+    
 61. Nowomowa jako sposób na ograniczenie wolności człowieka. Omów zagadnienie na podstawie utworu Rok 1984 George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-Z lekcji:
+	**Z lekcji:**
+	Współczesny język i jego ograniczenie
 
 ### Sławomir Mrożek, Tango
 62. Bunt przeciwko porządkowi społecznemu. Omów zagadnienie na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.

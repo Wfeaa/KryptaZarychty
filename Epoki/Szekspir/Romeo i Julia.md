@@ -20,9 +20,9 @@ Tybalt spotkał na ulicy Merkucja i Benwolia. Zaczęli nieprzyjazną dyskusję, 
 Dwa dni przed planowanym ślubem Julii z Parysem, Ojciec Laurenty radzi Julii aby udawała chęć wzięcia ślubu, a następnie wypiła napój, który jej wręcza. Ma on uśpić ją na 42 godziny tak, żeby nie było po niej widać oznak życia. Wtedy, kiedy rodzina wyprawi jej pogrzeb, zjawi się Romeo. Wezmą należyty ślub i wyjadą razem do Mantui.
 Z początku plan przebiegał pomyślnie, ale posłaniec Ojca Laurentego, który miał poinformować Romea o jego planie, został zamknięty w domu pod podejrzeniem zarazy.
 Romeo kupuje truciznę i udaje się do grobowca Julii aby tam odebrać sobie życie. Na miejscu spotyka Parysa, który zaczyna pojedynek, przegrywa i umiera. Romeo składa go w grobowcu a następnie sam zażywa truciznę.
-Kiedy Julia się budzi, dowiaduje się od Ojca Laurentego oo śmierci Romea i, zaraz po wyjściu kapłana z grobowca, przebija się sztyletem Romea.
+Kiedy Julia się budzi, dowiaduje się od Ojca Laurentego o śmierci Romea i, zaraz po wyjściu kapłana z grobowca, przebija się sztyletem Romea.
 
 
 
 
-Ojciec Laurenty wielokrotnie komentuje zaszłe sytuacje - Pochwala związek Romea z Julią jednocześnie potępiając jego miłość do Rozalii. Kiedy Romeo zostaje skazany, kapłan krytykuje jego czyn ale radzi mu znieść ten los i nie popełniać samobójstwa. Krytykuje również plan ślubu Parysa z Julią gdyż jest on pośpieszny a Parys nie zna dobrze swojej narzeczonej.
+Ojciec Laurenty przez cały utwór wielokrotnie komentuje zaszłe sytuacje - Pochwala związek Romea z Julią jednocześnie potępiając jego miłość do Rozalii. Kiedy Romeo zostaje skazany, kapłan krytykuje jego czyn ale radzi mu znieść ten los i nie popełniać samobójstwa. Krytykuje również plan ślubu Parysa z Julią gdyż jest on pośpieszny a Parys nie zna dobrze swojej narzeczonej.

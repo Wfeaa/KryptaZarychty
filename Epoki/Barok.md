@@ -28,6 +28,7 @@ Daniel Naborowski (1573 - 1640):
 	[[Marność (D. Naborowski)|Marność]]
 	[[Krótkość żywota]]
 	[[Cnota grunt wszystkiemu]]
+
 [[Do trupa]]
 [[William Shakespeare]]: (przełom renesans/barok)
 	[[Romeo i Julia]]
