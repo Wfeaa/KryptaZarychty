@@ -73,13 +73,23 @@
     BB (na lekcji): Tren XIX - Kochanowski widzi matkę, RZ: Kochanowski chce dowodu, że dziecko jest i ma się dobrze.
 25. W jakim celu twórca nawiązuje do motywów biblijnych? Omów zagadnienie na podstawie Dziadów części III Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Bolesław Prus, Lalka
-26. Miłość – siła destrukcyjna czy motywująca do działania? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-27. Różne oblicza przyjaźni. Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-28. Praca jako pasja człowieka. Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-29. Jaką rolę w relacjach międzyludzkich odgrywają majątek i pochodzenie? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-30. Konfrontacja marzeń z rzeczywistością. Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-31. Jakie cechy charakteru ułatwiają człowiekowi osiągnięcie celu? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-32. Miasto – przestrzeń przyjazna czy wroga człowiekowi? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+1. Miłość – siła destrukcyjna czy motywująca do działania? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    Teza: Motywuje do działania, które może być zarówno destruktywne jak i konstruktywne.
+    Wokulskiego motywuje do działania ale w destruktywny sposób - zaniedbuje wszystko co nie prowadzi do Łęckiej, np. sklep.
+    Kontekst: 
+    - Zbrodnia i Kara - Miłość do Soni motywuje Raskolnikowa do przyznania się do morderstwa, co znacznie poprawia jego sytuację życiową (długoterminowo).
+2. Różne oblicza przyjaźni. Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+   Teza: Sposób wyrażania przyjaźni zależy od sytuacji, w jakiej znajdują się przyjaciele.
+   Wokulski i Rzecki - są w różnych sytuacjach, u Rzeckiego życie toczy się jak zwykle (za wyjątkiem wątku Wokulskiego), a Wokulski skupia się jedynie na Łęckiej. Przez te różnice przyjaźń jest bardziej ograniczona - Rzecki ogranicza się do udzielania rad Wokulskiemu (ale bez przekonania) i spełniania jego życzeń. Wokulski odkłada na bok sklep - interes Rzeckiego, nie słucha jego rad.
+   Podczas Wiosny Ludów Rzecki i Katz są w tej samej sytuacji - w wojsku. Są ze sobą bardzo blisko, przyjaźń jest jednym z najważniejszych elementów ich życia w wojsku. Rzecki opowiada o wydarzeniach przez pryzmat relacji z Katzem, ponieważ przyjaźń była wtedy dla niego bardzo ważna.
+   Kontekst:
+   - Dżuma - wszyscy bohaterowie są w takiej samej sytuacji - w odizolowanym mieście ogarniętym dżumą. Przez to powstają silne więzy przyjaźni - np. między Rieux a Tarrou.
+3. Praca jako pasja człowieka. Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+   Teza: 
+4. Jaką rolę w relacjach międzyludzkich odgrywają majątek i pochodzenie? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+5. Konfrontacja marzeń z rzeczywistością. Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+6. Jakie cechy charakteru ułatwiają człowiekowi osiągnięcie celu? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+7. Miasto – przestrzeń przyjazna czy wroga człowiekowi? Omów zagadnienie na podstawie Lalki Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Henryk Sienkiewicz, Potop (fragmenty)
 33. Postawy odwagi i tchórzostwa. Omów zagadnienie na podstawie znanych Ci fragmentów Potopu Henryka Sienkiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 ### Fiodor Dostojewski, Zbrodnia i kara
@@ -176,13 +186,78 @@ Kontekst: Korea Północna
 
 ### Sławomir Mrożek, Tango
 62. Bunt przeciwko porządkowi społecznemu. Omów zagadnienie na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
-63. Problem upadku wartości. Omów zagadnienie na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Teza:
+- jest narzędziem służącym zmianie porządku
+  Rodzice Artura buntują się aby wyzwolić się od norm ograniczających ich wolność - przede wszystkim kultury mieszczańskiej.
+  Na premierze opery Stomil i Eleonora siadają w pierwszym rzędzie. (wg. Stomila) / na wystawie sztuki (wg. Eleonory)
+- Prowadzi do destrukcji
+  Powoduje (niegodną) śmierć Eugenii i Artura oraz przejęcie władzy przez Edka, które stworzyło większy chaos. Analogicznie o buncie rodziców. Przez ich bunt w rodzinie nie ma wartości rodzinnych, nie ma pamięci o przeszłości
+- zwalcza szkodliwe normy
+- jest objawem rozczarowania porządkiem społecznym
+  Artur lub jego rodzice
+- może służyć zdobyciu władzy
+  Edek przejmuje władzę dzięki buntowi (RZ odradza, ciężko obronić), dużo daje kontekst historyczny i rewolucje.
+- Jest wynikiem opresyjnego porządku społecznego.
+  huh??
+	Konteksty:
+- Folwark zwierzęcy
+- Prometeusz
+- Konrad Dziad
+63. . Problem upadku wartości. Omów zagadnienie na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Teza:
+- Jest przyczyną przewrotów
+  Kontekst - '89
+- Umożliwia *Diabelskie* czyny (Gabryś classic)
+  Działanie Edka i Artura
+  Wallenrod odrzuca wartości rycerza i bardzo krzywdzi biednych krzyżaków :c
+- Prowadzi do wywyższenia/apoteozy siły/przemocy
+  Edek - Bohaterowie pozbawieni wartości nie są w stanie przeciwdziałać jego sile.
 64. Normy społeczne – ograniczają człowieka czy porządkują życie? Omów zagadnienie na podstawie Tanga Sławomira Mrożka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Teza: Obydwa
+    Postrzeganie norm społecznych zależy od ich wpływu na konkretnego człowieka - Artur widzi w nich porządek, ponieważ mu ich brakuje i żyje w nieporządku, a jego rodzice widzieli w normach opresję.
+Kontekst:
+- Zbrodnia i kara
+- Statut ALO (RZ classic)
+- Dżuma - zasady wprowadzone podczas dżumy są dla niektórych ograniczające, a dla innych porządkują życie (rozmowa Rieux i Ramberta)
+- Mistrz i Małgorzata - Mistrz a poeci 
+- Moralność pani Dulskiej
+- Chłopi (film!)
+- 1984
 ### Marek Nowakowski, Górą „Edek”
 65. W jakim celu autor nawiązuje w swoim tekście do innego tekstu? Omów zagadnienie na podstawie utworu Górą „Edek” Marka Nowakowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Teza:
+    - Żeby nawiązać dyskusję z ideą innego tekstu
+    - By pokazać uniwersalizm tekstu
+    - By pomóc w interpretacji
+    - By dodać wagi
+    - By pokazać, że literatura to skarbnica źródeł, pomysłów, objaśnień (RZ)
+      Kontekst: 
+    - Plotka o weselu
+    - Panny z wesela
+    - Mistrz i Małgorzata - Biblia
+    - Dziady cz III - Biblia
+    - Inny Świat
 ### Andrzej Stasiuk, Miejsce
 66. Jaką wartość dla człowieka ma pamięć o przeszłości? Omów zagadnienie na podstawie Miejsca Andrzeja Stasiuka. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji:**
+    Może być sensem istnienia dla człowieka, jak dla sparaliżowanego starca, który mówi, że już może umierać, ponieważ pamięć została mu odebrana
+    (Słabe, nie do końca rozumiem)
+    Kontekst: 
+    - Wizyta w muzeum
+    - Rzecki i jego pamiętniki
+    
 ### Olga Tokarczuk, Profesor Andrews w Warszawie
 67. Stan wojenny z perspektywy obcokrajowca. Omów zagadnienie na podstawie utworu Profesor Andrews w Warszawie Olgi Tokarczuk. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+    **Z lekcji**
+    Teza: Stanowi próbę / jest szokujący
+    Kontekst:
+- matka Baryki podczas rewolucji
+- Korea płn. 
+- Wokulski w Paryżu
+- Fotografie Chrisa Niedenthala
 ### Ryszard Kapuściński, Podróże z Herodotem (fragmenty)
 68. Czym dla człowieka może być podróżowanie? Omów zagadnienie na podstawie znanych Ci fragmentów Podróży z Herodotem Ryszarda Kapuścińskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
